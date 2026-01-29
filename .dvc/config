@@ -1,0 +1,6 @@
+[core]
+    remote = awsremote
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
+['remote "awsremote"']
+    url = s3://manusalazar-dvcstore
